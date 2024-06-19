@@ -1,0 +1,22 @@
+{
+  "name": "ep1",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshith0406/React.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harshith0406/React.js/issues"
+  },
+  "homepage": "https://github.com/harshith0406/React.js#readme",
+  "description": "",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
